@@ -1,0 +1,4 @@
+datos:
+1.Comisiones
+2.sueldo base
+3.total
